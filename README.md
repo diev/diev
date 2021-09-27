@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **diev/diev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* EN: [Resume/CV]
+* RU: [Резюме], [Facebook]
+
+
+[Resume/CV]: https://dievdo.ru/en/resume/
+[Резюме]: https://dievdo.ru/resume/
+[Facebook]: https://www.facebook.com/dmitrii.evdokimov
