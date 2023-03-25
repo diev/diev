@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 * EN: [Resume/CV]
-* RU: [Резюме], [Facebook]
+* RU: [Резюме], [Facebook], [ВК]
+
 
 
 [Resume/CV]: https://dievdo.ru/en/resume/
 [Резюме]: https://dievdo.ru/resume/
 [Facebook]: https://www.facebook.com/dmitrii.evdokimov
+[ВК]: https://vk.com/dievdo
